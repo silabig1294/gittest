@@ -12,3 +12,5 @@ for i in range(len(my_list2)-1, 2, -1):
 
 print("silatest")
 
+print("Hello lisa")
+
